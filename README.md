@@ -12,15 +12,11 @@ This repo is a full-stack, multimodal Retrieval-Augmented Generation (RAG) chatb
 
 ---
 
-## Demo Video
+## Demo Video & Live App
 
 [![Watch the video](https://img.youtube.com/vi/eKd9_d1zaoY/0.jpg)](https://www.youtube.com/watch?v=eKd9_d1zaoY&ab_channel=VishnuMukundan)
 
----
-
-## Live Streamlit Demo
-
-👉 [Try it live on Streamlit!](https://calicartels-assignment-llms-3-streamlit-app-h15fc7.streamlit.app/)
+👉 [Try the Streamlit app live](https://calicartels-assignment-llms-3-streamlit-app-h15fc7.streamlit.app/)
 
 ---
 
@@ -140,17 +136,6 @@ npm run dev
 
 ---
 
-## Video Walkthrough
-- [YouTube Demo](https://www.youtube.com/watch?v=eKd9_d1zaoY&ab_channel=VishnuMukundan)
-- See `My Movie.mp4` in the repo root for a full walkthrough (or click the video above)
-
----
-
-## Live Demo
-- [Streamlit App (hosted)](https://calicartels-assignment-llms-3-streamlit-app-h15fc7.streamlit.app/)
-
----
-
 ## Troubleshooting
 - If you get auth errors, check your credentials in `credentials/`
 - If you see missing index errors, process a document first
@@ -160,11 +145,9 @@ npm run dev
 ---
 
 ## License
-MIT (or your choice)
+MIT License
 
 ---
 
 ## Credits
-- Built by Vishnu Mukundan
-- Powered by OpenAI, Google Vertex AI, Streamlit, FastAPI, React, Vite
-- [YouTube Video](https://www.youtube.com/watch?v=eKd9_d1zaoY&ab_channel=VishnuMukundan)
+Built by Vishnu Mukundan. Powered by OpenAI, Google Vertex AI, Streamlit, FastAPI, React, Vite.
